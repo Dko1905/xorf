@@ -1,0 +1,21 @@
+root = true
+
+[*.{c,mk}]
+indent_style = tab
+insert_final_newline = true
+charset = utf-8
+
+[Makefile]
+indent_style = tab
+insert_final_newline = true
+charset = utf-8
+
+[*.md]
+indent_style = tab
+insert_final_newline = true
+charset = utf-8
+
+[.gitignore]
+indent_style = tab
+insert_final_newline = true
+charset = utf-8
